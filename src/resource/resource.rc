@@ -1,0 +1,5 @@
+#include "resource.h"
+
+IDI_CURSOR1 CURSOR "assets/ArrowCursor.cur"
+INT_HELPCHM RCDATA "assets/catchbox.chm"
+IDI_ICON1 ICON "assets/icon.ico"

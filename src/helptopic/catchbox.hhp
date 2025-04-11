@@ -1,0 +1,16 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=catchbox.chm
+Contents file=catchbox.hhc
+Default font=,8,0
+Default topic=
+Full-text search=Yes
+Index file=catchbox.hhk
+Language=0x409 English (United States)
+Title=catch ze block hlepicals
+
+[FILES]
+catchzebox.html
+newgam.html
+gammenu.html
+abaut.html

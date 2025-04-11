@@ -1,0 +1,3 @@
+#define IDI_CURSOR1 101
+#define INT_HELPCHM 102
+#define IDI_ICON1 103
